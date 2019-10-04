@@ -6,11 +6,16 @@
     <title>Авторизация в магазин игрушек</title>
     <link rel="stylesheet" href="css/reg_au_styles.css" type="text/css">
 </head>
-<body>
-    <div class="login_box">
-        <form class="login_form" action="" method="post" name="contact_form">
-            <h2>Здраствуйте ${email}</h2>
-        </form>
+<body> 
+    <div>
+        <h2>Welocme</h2>
+        <div>
+            <h1>{$name}</h1>
+        </div>
+        <div>
+            <h1>{$surname}</h1>
+        </div>
+
     </div>
 </body>
 </html>

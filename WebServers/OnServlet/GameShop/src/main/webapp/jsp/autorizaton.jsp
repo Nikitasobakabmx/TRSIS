@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="login_box">
-        <form class="login_form" action="" method="post" name="contact_form">
+        <form class="login_form" action="login" method="post" name="contact_form">
             <h2>Авторизируйтесь</h2>
             <div>
                 <pre for="email">Email:                </pre>
@@ -21,12 +21,7 @@
 
             <div>
                 <button class="submit" type="submit">Войти</button>
-                <!-- <button class="submit"  method="GET" href="/GameShop/reg">Регистрация</button> -->
-            </div>
-            <div class="submit" >
-                <a href="/GameShop/reg">
-                    <h6 >Регистрация</h6>
-                </a>
+                <button class="submit" type="submit" formmethod="GET">Регистрация</button>
             </div>
         </form>
     </div>

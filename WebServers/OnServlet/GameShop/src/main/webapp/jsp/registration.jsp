@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="login_box">
-        <form class="login_form" action="" method="post" name="contact_form">
+        <form class="login_form" action="welcome_boat" method="post" name="contact_form">
             <h2>Зарегестрируйтесь</h2>
             <div>
                 <pre for="name">Имя*:                  </pre>

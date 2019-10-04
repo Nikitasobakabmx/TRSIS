@@ -4,4 +4,44 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  
+  <!-- /reg -->
+  <servlet>
+    <servlet-name>registration</servlet-name>
+    <jsp-file>/jsp/registration.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>registration</servlet-name>
+    <url-pattern>/reg</url-pattern>
+  </servlet-mapping>
+  
+  <!-- /autor -->
+  <servlet>
+    <servlet-name>autorizaton</servlet-name>
+    <jsp-file>/jsp/autorizaton.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>autorizaton</servlet-name>
+    <url-pattern>/autor</url-pattern>
+  </servlet-mapping>
+
+   <!-- /welcome -->
+  <servlet>
+    <servlet-name>welcomeJSP</servlet-name>
+    <jsp-file>/jsp/welcome.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>welcomeJSP</servlet-name>
+    <url-pattern>/welcome</url-pattern>
+  </servlet-mapping>
+
+  <!--/edit-->
+  <servlet>
+    <servlet-name>editJSP</servlet-name>
+    <jsp-file>/jsp/edit.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>editJSP</servlet-name>
+    <url-pattern>/edit</url-pattern>
+  </servlet-mapping>
 </web-app>
