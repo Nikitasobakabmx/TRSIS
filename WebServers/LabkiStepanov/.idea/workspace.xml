@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91b18c71-a02a-4dd6-9d42-d900a566774e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BTree/src/com/javaClasses/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BTree/src/com/javaClasses/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/java/AutorizationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/java/ChangeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/java/RegistrationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/java/StartServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/css/reg_au_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/jsp/autor_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/jsp/autorizaton.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/jsp/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/jsp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/jsp/registration.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/jsp/welcome.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OnServlet/GameShop/src/main/webapp/simpleDB/clients.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TCwuZ3HBIHt8atiljkexKJxUJW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView />
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b18c71-a02a-4dd6-9d42-d900a566774e" name="Default Changelist" comment="" />
+      <created>1572977610054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572977610054</updated>
+      <workItem from="1572977619768" duration="1095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="111" width="803" height="712" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1572978592047">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="393" y="111" width="803" height="712" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1600.873@0.27.1600.873" timestamp="1572978592047" />
+    <state x="442" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1572977793768">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="442" y="291" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1572977793768" />
+    <state x="70" y="89" width="1451" height="755" key="new project wizard" timestamp="1572978718229">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="70" y="89" width="1451" height="755" key="new project wizard/0.27.1600.873@0.27.1600.873" timestamp="1572978718229" />
+  </component>
+</project>
