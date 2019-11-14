@@ -9,8 +9,8 @@ CREATE TABLE IF NOT EXISTS games
 );
 
 CREATE TABLE IF NOT EXISTS key_for_game(
-    key         BIGSERIAL       PRIMARY KEY,
-    game_id     BIGINT          REFERENCES games(id),
-    is_used     BOOLEAN         DEFAULT FALSE,
-    key_holder  varchar(100)    DEFAULT NULL
+                                           key         BIGSERIAL       PRIMARY KEY,
+                                           game_id     BIGINT          REFERENCES games(id),
+                                           is_used     BOOLEAN         DEFAULT FALSE,
+                                           key_holder  varchar(100)    DEFAULT NULL
 );
