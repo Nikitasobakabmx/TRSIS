@@ -7,7 +7,7 @@
 
 	for DB
 		psql -Unikittossii game_shop -h127.0.0.1 -f '/home/nikittossii/Documents/java/WebServers/LabaOne/src/main/resources/database/populateDB.sql' 
-	export JAVA_HOME = /usr/lib/jvm/java-11-openjdk-amd64
+	export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
 
     
     
