@@ -12,7 +12,7 @@ import java.util.ArrayList;
 public class Servlet extends HttpServlet {
     private static final String JDBC_DRIVER = "org.postgresql.Driver";
     private static final String DATABASE_URL = "jdbc:postgresql://localhost:5432/game_shop";
-    private static final String DATABASE_USER = "nikittosii";
+    private static final String DATABASE_USER = "nikittossii";
     private static final String DATABASE_PASSWORD = "111261";
     private static final String TABLE_GAMES = "games";
     private static final String GET_ALL_GAMES = "SELECT * FROM games";
