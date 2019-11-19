@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>AngularJS</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.7/angular.js"></script>
+        <script src="/main.js"></script>
+        <link href="main.css" rel="stylesheet" />
+    </head>
+<body ng-app = "GameManagement" ng-controller = "GameController">
+<ul>
+    <li>
+        <form ng-submit="submitGame()" id = "adding">
+            <input type = "text" name = "name" value="Название">
+            <input type = "text" name = "studioName" value="Студия">
+            <input type = "text" name = "cost" value ="Стоимость">
+            <button ng-click = "appendGame()" name = "button" value = "add">Добавить</button>
+        </form>
+    </li>
+
+    <br/>
+    <li ng-repeat = "game in games">
+        <form id={{game.id}}>
+            <input type = "text" name="name" value  = {{game.name}}>
+            <input type = "text" name="studioName" value  = {{game.studioName}}>
+            <input type = "text" name="cost" value={{game.cost}}>
+            <input type = "hidden" name="id" value  = {{game.id}}>
+            <button ng-click="deleteGame(game)">Удалить</button>
+            <button ng-click="editGame(game)">Изменить</button>
+        </form>
+
+
+    </li>
+</ul>
+</body>
+</html>
